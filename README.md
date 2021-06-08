@@ -8,9 +8,9 @@
 
 ### I'm 21 years old self-taught Mobile app developer from India. I Love Mobile Apps, if you got something on your mind, I wont mind it discussing even at 2 AM over an cup of coffee ☕️
 #### 🔭 I’m currently working in @smallcase as an Android Mobile Engineer.
-#### 🌱 As an side-hustle I work in AppNikks. Be sure to check our apps and give your feedback 
-<a href="https://play.google.com/store/apps/details?id=com.appnikks.gullak&hl=en_IN">
-  <img align="left" alt="PocketGuard" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/googleplay.svg" />
+#### 🌱 As an side-hustle I do make fun apps under TheGeekDogs. Be sure to check our apps and give your feedback 
+<a href="https://play.google.com/store/apps/details?id=com.thegeekdogs.pocketguard2">
+  <img align="left" alt="Pocket Manager" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/googleplay.svg" />
 </a>
 <br/>
 
@@ -19,7 +19,7 @@
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=sahibedu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahibedu)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Thank You-🙏🏼
+#### Thank You 🙏🏼
 
 <!--
 **sahibedu/sahibedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
